@@ -1,0 +1,173 @@
+{
+  "main": {
+    "id": "48b9d12e2735a18d",
+    "type": "split",
+    "children": [
+      {
+        "id": "cc2c851955d94d5f",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "b61bc92ea9a1b44e",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Лекции Веб разработка/Лекция 4.3 Архитектура веб-приложений.md",
+                "mode": "source",
+                "source": false
+              }
+            }
+          },
+          {
+            "id": "b1d529469ab098c2",
+            "type": "leaf",
+            "state": {
+              "type": "image",
+              "state": {
+                "file": "Лекции Веб разработка/Pictures/Pasted image 20230108114757.png"
+              }
+            }
+          }
+        ],
+        "currentTab": 1
+      }
+    ],
+    "direction": "vertical"
+  },
+  "left": {
+    "id": "cf64020590977c95",
+    "type": "split",
+    "children": [
+      {
+        "id": "90364ae9f2cb950e",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "47f3bd3d5ffb0031",
+            "type": "leaf",
+            "state": {
+              "type": "file-explorer",
+              "state": {
+                "sortOrder": "alphabetical"
+              }
+            }
+          },
+          {
+            "id": "0c4aacdba5be96ae",
+            "type": "leaf",
+            "state": {
+              "type": "search",
+              "state": {
+                "query": "",
+                "matchingCase": false,
+                "explainSearch": false,
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical"
+              }
+            }
+          },
+          {
+            "id": "159613de6429cbd0",
+            "type": "leaf",
+            "state": {
+              "type": "starred",
+              "state": {}
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "horizontal",
+    "width": 300
+  },
+  "right": {
+    "id": "6b3ab0932ca503c1",
+    "type": "split",
+    "children": [
+      {
+        "id": "a7bef0743dc6efd1",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "71ef6ab492ce48e7",
+            "type": "leaf",
+            "state": {
+              "type": "backlink",
+              "state": {
+                "file": "Лекции Веб разработка/Pictures/Pasted image 20230108114757.png",
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical",
+                "showSearch": false,
+                "searchQuery": "",
+                "backlinkCollapsed": false,
+                "unlinkedCollapsed": true
+              }
+            }
+          },
+          {
+            "id": "a46a02e2b4224504",
+            "type": "leaf",
+            "state": {
+              "type": "outgoing-link",
+              "state": {
+                "file": "Лекции Веб разработка/Pictures/Pasted image 20230108114757.png",
+                "linksCollapsed": false,
+                "unlinkedCollapsed": true
+              }
+            }
+          },
+          {
+            "id": "cce1dd171b05c7bc",
+            "type": "leaf",
+            "state": {
+              "type": "tag",
+              "state": {
+                "sortOrder": "frequency",
+                "useHierarchy": true
+              }
+            }
+          },
+          {
+            "id": "6d81b519d9faf876",
+            "type": "leaf",
+            "state": {
+              "type": "outline",
+              "state": {
+                "file": "Лекции Веб разработка/Pictures/Pasted image 20230108114757.png"
+              }
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "horizontal",
+    "width": 300,
+    "collapsed": true
+  },
+  "left-ribbon": {
+    "hiddenItems": {
+      "switcher:Open quick switcher": false,
+      "graph:Open graph view": false,
+      "canvas:Create new canvas": false,
+      "daily-notes:Open today's daily note": false,
+      "templates:Insert template": false,
+      "command-palette:Open command palette": false
+    }
+  },
+  "active": "47f3bd3d5ffb0031",
+  "lastOpenFiles": [
+    "Лекции Веб разработка/Pictures/Pasted image 20230108113606.png",
+    "Лекции Веб разработка/Лекция 2.1 Как узнать адрес DNS.md",
+    "Лекции Веб разработка/Pictures/Pasted image 20230108114757.png",
+    "Лекции Веб разработка/Лекция 5.1 Это база.md",
+    "Лекции Веб разработка/Лекция 4.3 Архитектура веб-приложений.md",
+    "Лекции Веб разработка/Лекция 4.2 Сессия в PHP.md",
+    "Лекции Веб разработка/Лекция 4.1 Настройка сервера.md",
+    "Лекции Веб разработка/Лекция 3.1  PHP и веб - сервер.md",
+    "Лекции Веб разработка/Лекция 2.5 Практика Telnet.md",
+    "Лекции Веб разработка/Лекция 2.4 Передача файлов HTTP.md"
+  ]
+}
